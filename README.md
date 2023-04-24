@@ -3,6 +3,8 @@
 
 with nordic as the theme for both
 
+tint2 as the bar
+
 compsitor is picom 
 
 with xfce terminal as terminal emulator 
@@ -10,6 +12,8 @@ with xfce terminal as terminal emulator
 wallpaper mx wallpaper
 
 icons papirus
+
+rofi for the menu
 
 ![Screenshot_2023-04-24_15-10-41](https://user-images.githubusercontent.com/68042667/234093470-e9291f34-2bba-4bcf-93c5-406151e28395.png)
 
