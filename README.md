@@ -9,6 +9,8 @@ with xfce terminal as terminal emulator
 
 wallpaper mx wallpaper
 
+icons papirus
+
 ![Screenshot_2023-04-24_15-10-41](https://user-images.githubusercontent.com/68042667/234093470-e9291f34-2bba-4bcf-93c5-406151e28395.png)
 
 ![Screenshot_2023-04-24_15-12-06](https://user-images.githubusercontent.com/68042667/234093495-fc90efe2-1e66-47d3-8cbd-a0250f26f650.png)
